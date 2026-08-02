@@ -1,0 +1,4 @@
+interface:
+  display_name: "kbro Competitor Assessment"
+  short_description: "Compare competitors with the latest synchronized kbro baseline"
+  default_prompt: "Use $kbro-competitor-assessment with the provided local path or Google Drive reference, resolve the synchronized latest kbro baseline, and create a verified feasibility assessment report."
