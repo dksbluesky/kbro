@@ -1,0 +1,4 @@
+interface:
+  display_name: "kbro Company Capability Updater"
+  short_description: "Review evidence and version the kbro capability baseline"
+  default_prompt: "Use $kbro-company-capability-updater with the provided new file or files to propose evidence-based updates and wait for my approval before creating the next synchronized baseline."
